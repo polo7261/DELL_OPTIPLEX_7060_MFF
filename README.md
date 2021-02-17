@@ -1,6 +1,3 @@
-[![](https://img.shields.io/badge/)
-[![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)
-[![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
 # Dell Optiplex 7060 MFF Hackintosh
 
 具有OpenCore引導加載程序的Dell Optiplex 7060 MFF的EFI
