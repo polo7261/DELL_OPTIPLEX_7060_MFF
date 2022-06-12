@@ -1,6 +1,6 @@
 # Dell Optiplex 7060 MFF Hackintosh
 
-具有OpenCore引導加載程序的Dell Optiplex 7060 MFF的EFI
+這是帶有 OpenCore 引導加載程序的 Dell Optiplex 7060 MFF 的 EFI
 
 ![descrizione](./Screenshot/pc.jpg)
 
